@@ -6,6 +6,10 @@ An independent analysis of **96,211 delivered orders** to investigate a growth p
 
 [Interactive dashboard](https://datastudio.google.com/reporting/f9d0ac1b-739d-459d-9ea8-8a57cac34915) · [Case study & report](https://app.notion.com/p/40b00e5930d981889457f36e038e3c22)
 
+![Olist dashboard showing monthly sales and orders](assets/growth-dashboard.png)
+
+*Original Looker Studio dashboard: sales and order trends.*
+
 ## Findings
 
 | Finding | Decision to test |
